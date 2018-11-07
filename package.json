@@ -14,18 +14,9 @@
 		"author": "",
 		"license": "ISC",
 		"dependencies": {
-				"axios": "^0.18.0",
-				"ejs": "^2.6.1",
-				"express": "^4.16.4",
-				"fs": "0.0.1-security",
-				"koa": "^2.6.1",
-				"koa-router": "^7.4.0",
-				"memory-fs": "^0.4.1",
 				"vue": "2.5.13",
 				"vue-router": "^3.0.1",
-				"vue-server-renderer": "^2.5.13",
 				"vuex": "^2.3.1",
-				"webpack-node-externals": "^1.7.2"
 		},
 		"devDependencies": {
 				"babel-eslint": "^9.0.0",
